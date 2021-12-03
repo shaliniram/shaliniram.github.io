@@ -24,5 +24,5 @@ function gotoHomePage()
 
 function Mailaddresspage()
 {
-  window.location = "https://docs.google.com/spreadsheets/d/1Rbxq0qBBwcAWTFeV9dcnzZ7YD8v2y5o2BoQCUiFD8-g/edit?usp=sharing";
+  window.location = "https://docs.google.com/spreadsheets/d/15h78U3S9jMtBotb0UhkZcBM7yIMInFbB5tuyeK7w3PU/edit?usp=sharing";
 }
