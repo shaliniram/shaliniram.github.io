@@ -127,6 +127,22 @@
   margin-top: 0;
 }
 
+.contact-main {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Ensure the container fills the viewport height */
+}
+
+/* Set styles for the content area */
+.basic-contact {
+  flex-grow: 1; /* Allow the content area to expand to fill available space */
+}
+
+/* Set styles for the footer */
+.footer {
+  flex-shrink: 0; /* Prevent the footer from shrinking */
+}
+
 @media (max-width: 1380px) {
   .contact-heading-text {
     font-size: 50px;
